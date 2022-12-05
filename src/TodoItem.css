@@ -1,0 +1,10 @@
+.todo-item {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
+  border-bottom: 1px solid #ccc;
+}
+
+.done {
+  text-decoration: line-through;
+}
